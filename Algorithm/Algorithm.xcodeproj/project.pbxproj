@@ -30,6 +30,7 @@
 		DFBE944223A25840007EB578 /* NextBigNumber.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NextBigNumber.h; sourceTree = "<group>"; };
 		DFBE944323A25867007EB578 /* N_NumberLCM.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = N_NumberLCM.h; sourceTree = "<group>"; };
 		DFBE944423A259ED007EB578 /* MinimumMake.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MinimumMake.h; sourceTree = "<group>"; };
+		DFBE944523A25E4F007EB578 /* NumberExpression.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NumberExpression.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +93,7 @@
 				DFBE944223A25840007EB578 /* NextBigNumber.h */,
 				DFBE944323A25867007EB578 /* N_NumberLCM.h */,
 				DFBE944423A259ED007EB578 /* MinimumMake.h */,
+				DFBE944523A25E4F007EB578 /* NumberExpression.h */,
 			);
 			path = Level_2;
 			sourceTree = "<group>";
