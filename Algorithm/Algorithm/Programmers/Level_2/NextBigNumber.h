@@ -1,5 +1,17 @@
+//
+//  NextBigNumber.h
+//  Algorithm
+//
+//  Created by 민수 정  on 12/12/2019.
+//  Copyright © 2019 Minsu Jeong. All rights reserved.
+//
+
+#ifndef NextBigNumber_h
+#define NextBigNumber_h
+
 #include <vector>
 #include <set>
+
 using namespace std;
 
 int solution(vector<int> nums)
@@ -13,3 +25,5 @@ int solution(vector<int> nums)
     answer=nums.size()/2>phonketmonType.size()?phonketmonType.size():nums.size()/2;
     return answer;
 }
+
+#endif /* NextBigNumber_h */

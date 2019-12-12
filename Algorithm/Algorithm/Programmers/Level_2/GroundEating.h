@@ -1,3 +1,13 @@
+//
+//  GroundEating.h
+//  Algorithm
+//
+//  Created by 민수 정  on 12/12/2019.
+//  Copyright © 2019 Minsu Jeong. All rights reserved.
+//
+
+#ifndef GroundEating_h
+#define GroundEating_h
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -21,3 +31,6 @@ int solution(vector<vector<int> > land)
 
     return answer;
 }
+
+
+#endif /* GroundEating_h */

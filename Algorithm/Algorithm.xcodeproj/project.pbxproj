@@ -7,10 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DFBE942D23A22700007EB578 /* NextBigNumber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DFBE942B23A22700007EB578 /* NextBigNumber.cpp */; };
-		DFBE943323A2298D007EB578 /* Phonketmon.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DFBE943123A2298D007EB578 /* Phonketmon.cpp */; };
 		DFBE943523A22B9D007EB578 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DFBE943423A22B9D007EB578 /* main.cpp */; };
-		DFBE943723A2324B007EB578 /* GroundEating.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DFBE943623A2324B007EB578 /* GroundEating.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,10 +24,11 @@
 
 /* Begin PBXFileReference section */
 		DFBE942123A0F059007EB578 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
-		DFBE942B23A22700007EB578 /* NextBigNumber.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = NextBigNumber.cpp; sourceTree = "<group>"; };
-		DFBE943123A2298D007EB578 /* Phonketmon.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Phonketmon.cpp; sourceTree = "<group>"; };
 		DFBE943423A22B9D007EB578 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		DFBE943623A2324B007EB578 /* GroundEating.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = GroundEating.cpp; sourceTree = "<group>"; };
+		DFBE944023A257FA007EB578 /* GroundEating.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GroundEating.h; sourceTree = "<group>"; };
+		DFBE944123A25828007EB578 /* Phonketmon.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Phonketmon.h; sourceTree = "<group>"; };
+		DFBE944223A25840007EB578 /* NextBigNumber.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NextBigNumber.h; sourceTree = "<group>"; };
+		DFBE944323A25867007EB578 /* N_NumberLCM.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = N_NumberLCM.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,9 +86,10 @@
 		DFBE943023A2296D007EB578 /* Level_2 */ = {
 			isa = PBXGroup;
 			children = (
-				DFBE942B23A22700007EB578 /* NextBigNumber.cpp */,
-				DFBE943123A2298D007EB578 /* Phonketmon.cpp */,
-				DFBE943623A2324B007EB578 /* GroundEating.cpp */,
+				DFBE944023A257FA007EB578 /* GroundEating.h */,
+				DFBE944123A25828007EB578 /* Phonketmon.h */,
+				DFBE944223A25840007EB578 /* NextBigNumber.h */,
+				DFBE944323A25867007EB578 /* N_NumberLCM.h */,
 			);
 			path = Level_2;
 			sourceTree = "<group>";
@@ -152,9 +151,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DFBE943723A2324B007EB578 /* GroundEating.cpp in Sources */,
-				DFBE943323A2298D007EB578 /* Phonketmon.cpp in Sources */,
-				DFBE942D23A22700007EB578 /* NextBigNumber.cpp in Sources */,
 				DFBE943523A22B9D007EB578 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
