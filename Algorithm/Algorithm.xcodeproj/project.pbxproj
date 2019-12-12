@@ -6,6 +6,10 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		DFBE942D23A22700007EB578 /* NextBigNumber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DFBE942B23A22700007EB578 /* NextBigNumber.cpp */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		DFBE941F23A0F059007EB578 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -20,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		DFBE942123A0F059007EB578 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
+		DFBE942B23A22700007EB578 /* NextBigNumber.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = NextBigNumber.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +57,7 @@
 		DFBE942323A0F059007EB578 /* Algorithm */ = {
 			isa = PBXGroup;
 			children = (
+				DFBE942B23A22700007EB578 /* NextBigNumber.cpp */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -113,6 +119,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DFBE942D23A22700007EB578 /* NextBigNumber.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
