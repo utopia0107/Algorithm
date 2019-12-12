@@ -10,6 +10,7 @@
 		DFBE942D23A22700007EB578 /* NextBigNumber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DFBE942B23A22700007EB578 /* NextBigNumber.cpp */; };
 		DFBE943323A2298D007EB578 /* Phonketmon.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DFBE943123A2298D007EB578 /* Phonketmon.cpp */; };
 		DFBE943523A22B9D007EB578 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DFBE943423A22B9D007EB578 /* main.cpp */; };
+		DFBE943723A2324B007EB578 /* GroundEating.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DFBE943623A2324B007EB578 /* GroundEating.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		DFBE942B23A22700007EB578 /* NextBigNumber.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = NextBigNumber.cpp; sourceTree = "<group>"; };
 		DFBE943123A2298D007EB578 /* Phonketmon.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Phonketmon.cpp; sourceTree = "<group>"; };
 		DFBE943423A22B9D007EB578 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		DFBE943623A2324B007EB578 /* GroundEating.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = GroundEating.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 			children = (
 				DFBE942B23A22700007EB578 /* NextBigNumber.cpp */,
 				DFBE943123A2298D007EB578 /* Phonketmon.cpp */,
+				DFBE943623A2324B007EB578 /* GroundEating.cpp */,
 			);
 			path = Level_2;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DFBE943723A2324B007EB578 /* GroundEating.cpp in Sources */,
 				DFBE943323A2298D007EB578 /* Phonketmon.cpp in Sources */,
 				DFBE942D23A22700007EB578 /* NextBigNumber.cpp in Sources */,
 				DFBE943523A22B9D007EB578 /* main.cpp in Sources */,
