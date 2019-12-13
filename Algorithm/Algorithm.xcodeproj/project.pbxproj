@@ -28,6 +28,7 @@
 		DF9AC0CE23A3623200C7D55F /* MatrixMultiplication .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MatrixMultiplication .h"; sourceTree = "<group>"; };
 		DF9AC0CF23A3675300C7D55F /* JadenCaseStringMake.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JadenCaseStringMake.h; sourceTree = "<group>"; };
 		DF9AC0D023A3A17F00C7D55F /* H-Index.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "H-Index.h"; sourceTree = "<group>"; };
+		DF9AC0D123A3A64300C7D55F /* Camouflage.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Camouflage.h; sourceTree = "<group>"; };
 		DFBE942123A0F059007EB578 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		DFBE943423A22B9D007EB578 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		DFBE944023A257FA007EB578 /* GroundEating.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GroundEating.h; sourceTree = "<group>"; };
@@ -106,6 +107,7 @@
 				DF9AC0CE23A3623200C7D55F /* MatrixMultiplication .h */,
 				DF9AC0CF23A3675300C7D55F /* JadenCaseStringMake.h */,
 				DF9AC0D023A3A17F00C7D55F /* H-Index.h */,
+				DF9AC0D123A3A64300C7D55F /* Camouflage.h */,
 			);
 			path = Level_2;
 			sourceTree = "<group>";
