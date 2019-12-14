@@ -9,20 +9,23 @@
 #ifndef NextBigNumber_h
 #define NextBigNumber_h
 
-#include <vector>
-#include <set>
-
 using namespace std;
-
-int solution(vector<int> nums)
+int GetCount(int n)
 {
-    int answer = 0;
-    set<int> phonketmonType;
-    for(int i=0;i<nums.size();i++)
-    {
-        phonketmonType.insert(nums[i]);
+    int cnt=0;
+    while(n>0){
+        if(n%2==1)cnt++;
+        n/=2;
     }
-    answer=nums.size()/2>phonketmonType.size()?phonketmonType.size():nums.size()/2;
+    return cnt;
+}
+int solution(int n) {
+    int answer = 0;
+    int cnt=GetCount(n);
+    while(cnt!=GetCount(++n)){
+        
+    }
+    answer=n;
     return answer;
 }
 
