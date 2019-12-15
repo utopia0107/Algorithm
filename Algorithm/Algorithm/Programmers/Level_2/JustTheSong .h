@@ -13,6 +13,7 @@
 #include <sstream>
 #include <vector>
 using namespace std;
+//27,28케이스는 시작 시간의 정렬이 필요하다.
 //주어진 멜로디 정보의 C#,D#,F#,G#,A# 같이 #이 붙은 음표를 c,d,f,g,a로 치환하여 멜로디 정보를 반환하는 함수
 string GetChangeMusic(string music)
 {
