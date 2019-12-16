@@ -24,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		DF2A288223A74021002F1E76 /* Network.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Network.h; sourceTree = "<group>"; };
+		DF2A288323A74F44002F1E76 /* WordChange.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WordChange.h; sourceTree = "<group>"; };
 		DF2B2C4323A49E2F00BE074B /* OpenChatRoom.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OpenChatRoom.h; sourceTree = "<group>"; };
 		DF2B2C4423A628F300BE074B /* JustTheSong .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "JustTheSong .h"; sourceTree = "<group>"; };
 		DF2B2C4523A6376100BE074B /* FileNameSort.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FileNameSort.h; sourceTree = "<group>"; };
@@ -122,6 +123,7 @@
 				DF2B2C4523A6376100BE074B /* FileNameSort.h */,
 				DF2B2C4623A6577F00BE074B /* 2xNTiling.h */,
 				DF2A288223A74021002F1E76 /* Network.h */,
+				DF2A288323A74F44002F1E76 /* WordChange.h */,
 			);
 			path = Level_2;
 			sourceTree = "<group>";
