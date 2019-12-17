@@ -28,6 +28,7 @@
 		DF2A288423A7552F002F1E76 /* FurthestNode  .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "FurthestNode  .h"; sourceTree = "<group>"; };
 		DF2A288523A76C20002F1E76 /* TileDecorations.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TileDecorations.h; sourceTree = "<group>"; };
 		DF2A288723A8A82D002F1E76 /* DualPriorityQueue .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DualPriorityQueue .h"; sourceTree = "<group>"; };
+		DF2A288823A8B02C002F1E76 /*  DiskController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = " DiskController.h"; sourceTree = "<group>"; };
 		DF2B2C4323A49E2F00BE074B /* OpenChatRoom.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OpenChatRoom.h; sourceTree = "<group>"; };
 		DF2B2C4423A628F300BE074B /* JustTheSong .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "JustTheSong .h"; sourceTree = "<group>"; };
 		DF2B2C4523A6376100BE074B /* FileNameSort.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FileNameSort.h; sourceTree = "<group>"; };
@@ -71,6 +72,7 @@
 				DF2A288423A7552F002F1E76 /* FurthestNode  .h */,
 				DF2A288223A74021002F1E76 /* Network.h */,
 				DF2A288723A8A82D002F1E76 /* DualPriorityQueue .h */,
+				DF2A288823A8B02C002F1E76 /*  DiskController.h */,
 			);
 			path = Level_3;
 			sourceTree = "<group>";
