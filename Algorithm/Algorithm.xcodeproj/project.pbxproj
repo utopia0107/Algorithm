@@ -57,6 +57,7 @@
 		DFBE944523A25E4F007EB578 /* NumberExpression.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NumberExpression.h; sourceTree = "<group>"; };
 		DFBE944623A263A0007EB578 /* MaximumMinimum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MaximumMinimum.h; sourceTree = "<group>"; };
 		DFBFF80A23AC91A30080324E /* HowToLineUp.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HowToLineUp.h; sourceTree = "<group>"; };
+		DFBFF80B23ACABFC0080324E /* N-Queen.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "N-Queen.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +88,7 @@
 				DF6904BA23AB815700B47196 /* OvertimeIndex  .h */,
 				DF6904BB23AB887200B47196 /* BestSet.h */,
 				DFBFF80A23AC91A30080324E /* HowToLineUp.h */,
+				DFBFF80B23ACABFC0080324E /* N-Queen.h */,
 			);
 			path = Level_3;
 			sourceTree = "<group>";
