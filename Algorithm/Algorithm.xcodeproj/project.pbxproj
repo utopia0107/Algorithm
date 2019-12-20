@@ -58,6 +58,7 @@
 		DFBE944623A263A0007EB578 /* MaximumMinimum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MaximumMinimum.h; sourceTree = "<group>"; };
 		DFBFF80A23AC91A30080324E /* HowToLineUp.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HowToLineUp.h; sourceTree = "<group>"; };
 		DFBFF80B23ACABFC0080324E /* N-Queen.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "N-Queen.h"; sourceTree = "<group>"; };
+		DFBFF80C23ACC0CB0080324E /* IntegerTriangle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IntegerTriangle.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +90,7 @@
 				DF6904BB23AB887200B47196 /* BestSet.h */,
 				DFBFF80A23AC91A30080324E /* HowToLineUp.h */,
 				DFBFF80B23ACABFC0080324E /* N-Queen.h */,
+				DFBFF80C23ACC0CB0080324E /* IntegerTriangle.h */,
 			);
 			path = Level_3;
 			sourceTree = "<group>";
