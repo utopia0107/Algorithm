@@ -60,6 +60,7 @@
 		DFBFF80B23ACABFC0080324E /* N-Queen.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "N-Queen.h"; sourceTree = "<group>"; };
 		DFBFF80C23ACC0CB0080324E /* IntegerTriangle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IntegerTriangle.h; sourceTree = "<group>"; };
 		DFBFF80D23ACE6A70080324E /*  WayToSchool.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = " WayToSchool.h"; sourceTree = "<group>"; };
+		DFBFF80E23AD0A660080324E /* BestLongPalindrome.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BestLongPalindrome.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +94,7 @@
 				DFBFF80B23ACABFC0080324E /* N-Queen.h */,
 				DFBFF80C23ACC0CB0080324E /* IntegerTriangle.h */,
 				DFBFF80D23ACE6A70080324E /*  WayToSchool.h */,
+				DFBFF80E23AD0A660080324E /* BestLongPalindrome.h */,
 			);
 			path = Level_3;
 			sourceTree = "<group>";
