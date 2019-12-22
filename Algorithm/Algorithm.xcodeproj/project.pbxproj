@@ -41,6 +41,7 @@
 		DF6904B923AB658400B47196 /* LongJump .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "LongJump .h"; sourceTree = "<group>"; };
 		DF6904BA23AB815700B47196 /* OvertimeIndex  .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "OvertimeIndex  .h"; sourceTree = "<group>"; };
 		DF6904BB23AB887200B47196 /* BestSet.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BestSet.h; sourceTree = "<group>"; };
+		DF7595C023AF6680006B71BC /* Printer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Printer.h; sourceTree = "<group>"; };
 		DF9AC0CC23A3504700C7D55F /* RemoveMating .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "RemoveMating .h"; sourceTree = "<group>"; };
 		DF9AC0CD23A3521800C7D55F /* FibonacciNumber.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FibonacciNumber.h; sourceTree = "<group>"; };
 		DF9AC0CE23A3623200C7D55F /* MatrixMultiplication .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MatrixMultiplication .h"; sourceTree = "<group>"; };
@@ -166,6 +167,7 @@
 				DF2B2C4523A6376100BE074B /* FileNameSort.h */,
 				DF21D4CA23AE0BB8006A2ED4 /* FunctionalDevelopment  .h */,
 				DF21D4CB23AE0DA0006A2ED4 /* StockPrice  .h */,
+				DF7595C023AF6680006B71BC /* Printer.h */,
 			);
 			path = Level_2;
 			sourceTree = "<group>";
