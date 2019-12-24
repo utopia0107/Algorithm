@@ -41,6 +41,7 @@
 		DF6904B923AB658400B47196 /* LongJump .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "LongJump .h"; sourceTree = "<group>"; };
 		DF6904BA23AB815700B47196 /* OvertimeIndex  .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "OvertimeIndex  .h"; sourceTree = "<group>"; };
 		DF6904BB23AB887200B47196 /* BestSet.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BestSet.h; sourceTree = "<group>"; };
+		DF6CAFB023B1FE41007E4070 /* origami.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = origami.h; sourceTree = "<group>"; };
 		DF7595C023AF6680006B71BC /* Printer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Printer.h; sourceTree = "<group>"; };
 		DF7595C123AF72AD006B71BC /* Top.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Top.h; sourceTree = "<group>"; };
 		DF7595C223B07413006B71BC /* BestAlbum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BestAlbum.h; sourceTree = "<group>"; };
@@ -103,6 +104,7 @@
 				DFBFF80E23AD0A660080324E /* BestLongPalindrome.h */,
 				DF7595C223B07413006B71BC /* BestAlbum.h */,
 				DF7595C323B08D13006B71BC /* Budget.h */,
+				DF6CAFB023B1FE41007E4070 /* origami.h */,
 			);
 			path = Level_3;
 			sourceTree = "<group>";
