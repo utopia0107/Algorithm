@@ -43,6 +43,7 @@
 		DF6904BB23AB887200B47196 /* BestSet.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BestSet.h; sourceTree = "<group>"; };
 		DF6CAFB023B1FE41007E4070 /* origami.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = origami.h; sourceTree = "<group>"; };
 		DF6CAFB123B2182A007E4070 /* BaseStationInstallation .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "BaseStationInstallation .h"; sourceTree = "<group>"; };
+		DF6CAFB223B21C94007E4070 /* NumberGame.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NumberGame.h; sourceTree = "<group>"; };
 		DF7595C023AF6680006B71BC /* Printer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Printer.h; sourceTree = "<group>"; };
 		DF7595C123AF72AD006B71BC /* Top.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Top.h; sourceTree = "<group>"; };
 		DF7595C223B07413006B71BC /* BestAlbum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BestAlbum.h; sourceTree = "<group>"; };
@@ -107,6 +108,7 @@
 				DF7595C323B08D13006B71BC /* Budget.h */,
 				DF6CAFB023B1FE41007E4070 /* origami.h */,
 				DF6CAFB123B2182A007E4070 /* BaseStationInstallation .h */,
+				DF6CAFB223B21C94007E4070 /* NumberGame.h */,
 			);
 			path = Level_3;
 			sourceTree = "<group>";
