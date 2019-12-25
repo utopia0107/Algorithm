@@ -41,6 +41,7 @@
 		DF6904B923AB658400B47196 /* LongJump .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "LongJump .h"; sourceTree = "<group>"; };
 		DF6904BA23AB815700B47196 /* OvertimeIndex  .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "OvertimeIndex  .h"; sourceTree = "<group>"; };
 		DF6904BB23AB887200B47196 /* BestSet.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BestSet.h; sourceTree = "<group>"; };
+		DF69C0C123B39D6300F983F9 /* ConvertBracket.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ConvertBracket.h; sourceTree = "<group>"; };
 		DF6CAFB023B1FE41007E4070 /* origami.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = origami.h; sourceTree = "<group>"; };
 		DF6CAFB123B2182A007E4070 /* BaseStationInstallation .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "BaseStationInstallation .h"; sourceTree = "<group>"; };
 		DF6CAFB223B21C94007E4070 /* NumberGame.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NumberGame.h; sourceTree = "<group>"; };
@@ -184,6 +185,7 @@
 				DF21D4CB23AE0DA0006A2ED4 /* StockPrice  .h */,
 				DF7595C023AF6680006B71BC /* Printer.h */,
 				DF7595C123AF72AD006B71BC /* Top.h */,
+				DF69C0C123B39D6300F983F9 /* ConvertBracket.h */,
 			);
 			path = Level_2;
 			sourceTree = "<group>";
