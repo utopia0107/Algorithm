@@ -32,6 +32,7 @@
 		DF2A288723A8A82D002F1E76 /* DualPriorityQueue .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DualPriorityQueue .h"; sourceTree = "<group>"; };
 		DF2A288823A8B02C002F1E76 /*  DiskController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = " DiskController.h"; sourceTree = "<group>"; };
 		DF2AA43923B60AAD00671127 /* LockAndKey.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LockAndKey.h; sourceTree = "<group>"; };
+		DF2AA43A23B73B5D00671127 /* MoveBlock .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MoveBlock .h"; sourceTree = "<group>"; };
 		DF2B2C4323A49E2F00BE074B /* OpenChatRoom.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OpenChatRoom.h; sourceTree = "<group>"; };
 		DF2B2C4423A628F300BE074B /* JustTheSong .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "JustTheSong .h"; sourceTree = "<group>"; };
 		DF2B2C4523A6376100BE074B /* FileNameSort.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FileNameSort.h; sourceTree = "<group>"; };
@@ -116,6 +117,7 @@
 				DF6CAFB323B22E19007E4070 /* Delivery.h */,
 				DF6CAFB423B23EDB007E4070 /* VisitLength  .h */,
 				DF2AA43923B60AAD00671127 /* LockAndKey.h */,
+				DF2AA43A23B73B5D00671127 /* MoveBlock .h */,
 			);
 			path = Level_3;
 			sourceTree = "<group>";
