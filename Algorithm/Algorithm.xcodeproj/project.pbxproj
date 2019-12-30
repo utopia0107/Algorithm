@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		DF164A5F23BA32FA005A39D3 /* SecretMap .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SecretMap .h"; sourceTree = "<group>"; };
 		DF21D4CA23AE0BB8006A2ED4 /* FunctionalDevelopment  .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "FunctionalDevelopment  .h"; sourceTree = "<group>"; };
 		DF21D4CB23AE0DA0006A2ED4 /* StockPrice  .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "StockPrice  .h"; sourceTree = "<group>"; };
 		DF2884FC23B898ED00B97983 /* Joystick.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Joystick.h; sourceTree = "<group>"; };
@@ -162,6 +163,7 @@
 		DFBE942F23A22964007EB578 /* Level_1 */ = {
 			isa = PBXGroup;
 			children = (
+				DF164A5F23BA32FA005A39D3 /* SecretMap .h */,
 			);
 			path = Level_1;
 			sourceTree = "<group>";
