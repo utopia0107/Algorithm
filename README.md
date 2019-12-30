@@ -16,11 +16,11 @@
 >JadenCase 문자열 만들기</br>
 >H-Index</br>
 >위장</br>
->1차 캐시</br>
->1차 프렌즈4블록</br>
->오픈채팅방</br>
->방금그곡</br>
->파일명 정렬</br>
+>[2018 KAKAO BLIND RECRUITMENT] 캐시</br>
+>[2018 KAKAO BLIND RECRUITMENT] 프렌즈4블록</br>
+>[2019 KAKAO BLIND RECRUITMENT] 오픈채팅방</br>
+>[2018 KAKAO BLIND RECRUITMENT] 방금그곡</br>
+>[2018 KAKAO BLIND RECRUITMENT] 파일명 정렬</br>
 >2xN 타일링</br>
 >네트워크</br>
 >단어 변환</br>
@@ -49,10 +49,13 @@
 >숫자 게임</br>
 >배달</br>
 >방문 길이</br>
->[2020카카오공채] 괄호 변환</br>
->[2020카카오공채] 자물쇠와 열쇠</br>
->[2020카카오공채] 블록 이동하기</br>
+>[2020 KAKAO BLIND RECRUITMENT] 괄호 변환</br>
+>[2020 KAKAO BLIND RECRUITMENT] 자물쇠와 열쇠</br>
+>[2020 KAKAO BLIND RECRUITMENT] 블록 이동하기</br>
 >조이스틱</br>
 >전화번호 목록</br>
+>[2018 KAKAO BLIND RECRUITMENT] 비밀지도</br>
+>[2019 KAKAO BLIND RECRUITMENT] 실패율</br>
+>[2018 KAKAO BLIND RECRUITMENT] 다트 게임</br>
 
 
