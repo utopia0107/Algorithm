@@ -81,6 +81,7 @@
 		DFBFF80D23ACE6A70080324E /*  WayToSchool.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = " WayToSchool.h"; sourceTree = "<group>"; };
 		DFBFF80E23AD0A660080324E /* BestLongPalindrome.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BestLongPalindrome.h; sourceTree = "<group>"; };
 		DFF23FE023BCC3DC00A1DA76 /* StringCompression .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "StringCompression .h"; sourceTree = "<group>"; };
+		DFF23FE123BCCB4A00A1DA76 /* FineRectangle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FineRectangle.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -202,6 +203,7 @@
 				DF69C0C123B39D6300F983F9 /* ConvertBracket.h */,
 				DF2884FC23B898ED00B97983 /* Joystick.h */,
 				DF2884FD23B899BC00B97983 /* PhoneNumberList .h */,
+				DFF23FE123BCCB4A00A1DA76 /* FineRectangle.h */,
 			);
 			path = Level_2;
 			sourceTree = "<group>";
