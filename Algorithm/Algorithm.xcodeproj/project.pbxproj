@@ -85,6 +85,7 @@
 		DFFBA7F323BDD9BD003BED92 /* 124NumberOfCountries .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "124NumberOfCountries .h"; sourceTree = "<group>"; };
 		DFFBA7F423BF2D57003BED92 /* CandidateKey .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CandidateKey .h"; sourceTree = "<group>"; };
 		DFFBA7F523BF3CF9003BED92 /* Compression.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Compression.h; sourceTree = "<group>"; };
+		DFFBA7F623BF444A003BED92 /* N_DigitsGame .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "N_DigitsGame .h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -210,6 +211,7 @@
 				DFF23FE123BCCB4A00A1DA76 /* FineRectangle.h */,
 				DFFBA7F423BF2D57003BED92 /* CandidateKey .h */,
 				DFFBA7F523BF3CF9003BED92 /* Compression.h */,
+				DFFBA7F623BF444A003BED92 /* N_DigitsGame .h */,
 			);
 			path = Level_2;
 			sourceTree = "<group>";
