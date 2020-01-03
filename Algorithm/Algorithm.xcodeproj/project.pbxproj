@@ -83,6 +83,7 @@
 		DFF23FE023BCC3DC00A1DA76 /* StringCompression .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "StringCompression .h"; sourceTree = "<group>"; };
 		DFF23FE123BCCB4A00A1DA76 /* FineRectangle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FineRectangle.h; sourceTree = "<group>"; };
 		DFFBA7F323BDD9BD003BED92 /* 124NumberOfCountries .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "124NumberOfCountries .h"; sourceTree = "<group>"; };
+		DFFBA7F423BF2D57003BED92 /* CandidateKey .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CandidateKey .h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -206,6 +207,7 @@
 				DF2884FC23B898ED00B97983 /* Joystick.h */,
 				DF2884FD23B899BC00B97983 /* PhoneNumberList .h */,
 				DFF23FE123BCCB4A00A1DA76 /* FineRectangle.h */,
+				DFFBA7F423BF2D57003BED92 /* CandidateKey .h */,
 			);
 			path = Level_2;
 			sourceTree = "<group>";
