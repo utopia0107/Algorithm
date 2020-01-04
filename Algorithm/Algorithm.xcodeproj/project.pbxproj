@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		DF0B5D5823C0D3B300B59FF6 /* SkillTree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SkillTree.h; sourceTree = "<group>"; };
 		DF164A5F23BA32FA005A39D3 /* SecretMap .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SecretMap .h"; sourceTree = "<group>"; };
 		DF164A6023BA333F005A39D3 /* FailureRate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FailureRate.h; sourceTree = "<group>"; };
 		DF164A6123BA337D005A39D3 /* DartsGames .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DartsGames .h"; sourceTree = "<group>"; };
@@ -212,6 +213,7 @@
 				DFFBA7F423BF2D57003BED92 /* CandidateKey .h */,
 				DFFBA7F523BF3CF9003BED92 /* Compression.h */,
 				DFFBA7F623BF444A003BED92 /* N_DigitsGame .h */,
+				DF0B5D5823C0D3B300B59FF6 /* SkillTree.h */,
 			);
 			path = Level_2;
 			sourceTree = "<group>";
