@@ -63,5 +63,12 @@
 >[2019 KAKAO BLIND RECRUITMENT] 후보키</br>
 >[2018 KAKAO BLIND RECRUITMENT] 압축</br>
 >[2018 KAKAO BLIND RECRUITMENT] n진수 게임</br>
+>[서머코딩/윈터코딩(~2018)] 스킬트리</br>
+>쇠막대기</br>
+>N으로 표현</br>
+>더 맵게</br>
+>라면 공장</br>
+
+
 
 
