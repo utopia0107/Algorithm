@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B51649FF242351E200B99266 /* Solution.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B51649FD242351E200B99266 /* Solution.cpp */; };
 		DFBE943523A22B9D007EB578 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DFBE943423A22B9D007EB578 /* main.cpp */; };
 /* End PBXBuildFile section */
 
@@ -23,7 +24,11 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		B51649FD242351E200B99266 /* Solution.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Solution.cpp; sourceTree = "<group>"; };
+		B51649FE242351E200B99266 /* Solution.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Solution.h; sourceTree = "<group>"; };
 		B5541ED423CE019300E7DF91 /* CorrectParenthesis .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CorrectParenthesis .h"; sourceTree = "<group>"; };
+		B567ED29242F465100DAC3C2 /* 2019LineIntern.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 2019LineIntern.h; sourceTree = "<group>"; };
+		B56B9A752455A02F00EAF16D /* CranePuppetGame.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CranePuppetGame.h; sourceTree = "<group>"; };
 		B5E1CB49241E404A00D11BB0 /* FindLargestRectangle .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "FindLargestRectangle .h"; sourceTree = "<group>"; };
 		DF0B5D5823C0D3B300B59FF6 /* SkillTree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SkillTree.h; sourceTree = "<group>"; };
 		DF0B5D5923C212D700B59FF6 /* IronRod .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IronRod .h"; sourceTree = "<group>"; };
@@ -200,6 +205,10 @@
 				DF164A6023BA333F005A39D3 /* FailureRate.h */,
 				DF164A6123BA337D005A39D3 /* DartsGames .h */,
 				DFF23FE023BCC3DC00A1DA76 /* StringCompression .h */,
+				B51649FD242351E200B99266 /* Solution.cpp */,
+				B51649FE242351E200B99266 /* Solution.h */,
+				B567ED29242F465100DAC3C2 /* 2019LineIntern.h */,
+				B56B9A752455A02F00EAF16D /* CranePuppetGame.h */,
 			);
 			path = Level_1;
 			sourceTree = "<group>";
@@ -307,6 +316,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B51649FF242351E200B99266 /* Solution.cpp in Sources */,
 				DFBE943523A22B9D007EB578 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

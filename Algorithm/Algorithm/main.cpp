@@ -7,8 +7,13 @@
 //
 
 #include <stdio.h>
+#include<vector>
+#include <iostream>
+#include "2019LineIntern.h"
+using namespace std;
 
 int main()
 {
+    solution();
     return 0;
 }
