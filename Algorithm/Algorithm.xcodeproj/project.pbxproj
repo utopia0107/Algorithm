@@ -30,6 +30,7 @@
 		B567ED29242F465100DAC3C2 /* 2019LineIntern.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 2019LineIntern.h; sourceTree = "<group>"; };
 		B56B9A752455A02F00EAF16D /* CranePuppetGame.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CranePuppetGame.h; sourceTree = "<group>"; };
 		B56B9A762455A0AD00EAF16D /* Tuple.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Tuple.h; sourceTree = "<group>"; };
+		B56B9A772455A66600EAF16D /* BadUsers .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "BadUsers .h"; sourceTree = "<group>"; };
 		B5E1CB49241E404A00D11BB0 /* FindLargestRectangle .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "FindLargestRectangle .h"; sourceTree = "<group>"; };
 		DF0B5D5823C0D3B300B59FF6 /* SkillTree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SkillTree.h; sourceTree = "<group>"; };
 		DF0B5D5923C212D700B59FF6 /* IronRod .h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IronRod .h"; sourceTree = "<group>"; };
@@ -150,6 +151,7 @@
 				DF2AA43A23B73B5D00671127 /* MoveBlock .h */,
 				DF0B5D5A23C3356500B59FF6 /* ExpressAsN  .h */,
 				DF78118223C5DD3100DAD378 /* ChuseokTraffic.h */,
+				B56B9A772455A66600EAF16D /* BadUsers .h */,
 			);
 			path = Level_3;
 			sourceTree = "<group>";
