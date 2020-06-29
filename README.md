@@ -1,6 +1,5 @@
 #[프로그래머스](https://programmers.co.kr/) 문제 풀이
 ---
-## 정민수 [블로그](https://utopia0716.tistory.com/)
 ### 2019/12/12 시작
 ### 푼 문제
 >다음 큰 숫자</br>
